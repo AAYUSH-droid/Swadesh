@@ -1,6 +1,6 @@
-# Swadesh Assignment v1.0
+# Server
 
-This is the server of the Assignment. It is an express server with Typescript and Mongoose.
+This is the server of the Project. It is an express server with Typescript and Mongoose.
 
 ## Features
 
