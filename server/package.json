@@ -1,14 +1,8 @@
 {
   "name": "swadesh_server",
   "version": "1.0.0",
-  "description": "this is the server side code of the swadesh assignment app",
+  "description": "this is the server side code of the swadesh",
   "main": "app.js",
-  "license": "MIT",
-  "author": {
-    "email": "pandaronit25@gmail.com",
-    "name": "Ronit Panda",
-    "url": "https://ronit.pro"
-  },
   "scripts": {
     "dev": "ts-node-dev --respawn --transpile-only src/app.ts",
     "build": "tsc"
